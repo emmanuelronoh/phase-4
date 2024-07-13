@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "topic": "go",
+      "question": "What is Go primarily used for?",
+      "answer": "All of the above",
+      "options": [
+        "Web development",
+        "System programming",
+        "Concurrent programming",
+        "All of the above"
+      ]
+    },
+    {
+      "id": "2",
+      "topic": "php",
+      "question": "What is PHP primarily used for?",
+      "answer": "Web development",
+      "options": [
+        "Web development",
+        "Desktop applications",
+        "Mobile app development",
+        "System programming"
+      ]
+    },
+    {
+      "id": "fd16",
+      "question": "What is Go?",
+      "answer": "Go is a statically typed, compiled programming language designed at Google.",
+      "topic": "go"
+    },
+    {
+      "id": "f655",
+      "question": "What is C# primarily used for?",
+      "answer": "Go is a statically typed, compiled programming language designed at Google."
+    },
+    {
+      "id": "fa3a",
+      "question": "What is C# primarily used for?",
+      "answer": "Go is a statically typed, compiled programming language designed at Google."
+    }
+  ]
+}
